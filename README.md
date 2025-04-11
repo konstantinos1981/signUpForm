@@ -51,13 +51,6 @@ A responsive and accessible sign-up form built with **HTML**, **CSS (Bootstrap 5
 - Add password strength meter
 - Integrate backend API to submit form data
 - Add international phone number support
-- Add unit tests with Jest or Vitest
-
----
-
-## 📸 Preview
-
-![Form Screenshot](https://via.placeholder.com/800x400.png?text=Form+Validator+Preview)
 
 ---
 
